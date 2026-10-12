@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"path": "../../../../../../OneDrive/Desktop/CCTV"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CCTV"
+	}
+}
